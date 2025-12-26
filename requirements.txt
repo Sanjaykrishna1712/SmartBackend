@@ -6,3 +6,4 @@ email-validator==2.1.0
 python-dateutil==2.8.2
 flask-limiter==4.1.1
 gunicorn
+bcrypt
